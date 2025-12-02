@@ -20,7 +20,7 @@ Consider increasing the ticks per level in the data series for less liquid asset
 
 For developing, you can copy the OrderFlowBot folder into your local NinjaTrader AddOns folder.
 
-For usage, you can download the zip containing the word import in the release page. You can import this zip file similar to importing a normal NinjaTrader Add-On. https://github.com/BTC415/order-flow-bot/releases
+For usage, you can download the zip containing the word import in the release page. You can import this zip file similar to importing a normal NinjaTrader Add-On. `https://github.com/marksantiago290/order-flow-bot/releases`
 
 # Issues
 
@@ -154,4 +154,4 @@ There is a class called TechnicalLevels that you can pass to your custom strateg
 
 #### Pivots (Support/Resistance)
 
-This is integrated from https://github.com/BTC415/open-auto-trend-support-resistance. Add that as an indicator if you want to visually see the pivots. The last item in the list is the current developing pivot point. The second to the last is the last high or low pivot point.s
+This is integrated from https://github.com/marksantiago290/open-auto-trend-support-resistance. Add that as an indicator if you want to visually see the pivots. The last item in the list is the current developing pivot point. The second to the last is the last high or low pivot point.s
